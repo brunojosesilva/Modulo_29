@@ -1,0 +1,17 @@
+// Indica que e o arquivo de configuracao padrao
+root = true
+
+// Indica que esta configuracao serve para todos os arquivos
+[*]
+// identacao com espaço
+indent_style = space
+// apenas dois espaços
+indent_size = 2
+// Final linha
+end_of_line = lf
+// formatacao dos caracters
+charset = utf-8
+// obriga colocar espaços apos algum simbolo/variaveis
+trim_trailing_whitespace = true
+// obriga colocar linha em branco no final do arquivo
+insert_final_newline = true
